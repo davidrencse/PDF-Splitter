@@ -40,7 +40,3 @@ A Python script that **automatically splits a PDF** based on occurrences of the 
 
 ## 📜 License
 MIT License  
-
----
-
-Let me know if you'd like any modifications! 🚀
